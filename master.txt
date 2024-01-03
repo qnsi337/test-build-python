@@ -5,7 +5,7 @@ Deploy and Manage Cloud Environments with Google Cloud
 Build and Secure Networks in Google Cloud
 Deploy to Kubernetes in Google Cloud
 Perform Foundational Data, ML, and AI Tasks in Google Cloud
-Insights from Data with BigQuery
+Insights from Data with BigQuery123
 Engineer Data in Google Cloud
 Integrate with Machine Learning APIs123
 Explore Machine Learning Models with Explainable AI
